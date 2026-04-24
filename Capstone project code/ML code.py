@@ -19,8 +19,8 @@ except Exception:
 # TELEGRAM BOT DETAILS
 # ==============================
 
-BOT_TOKEN = "8724269811:AAHAQjND1fQoVMRsI6u1kI92wLXkjK43XoE"
-CHAT_ID = "5805551664"
+BOT_TOKEN = ""
+CHAT_ID = ""
 
 
 # ==============================
